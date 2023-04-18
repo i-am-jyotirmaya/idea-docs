@@ -29,3 +29,52 @@ FreeTaskly is now available for users in India, and plans are underway to expand
 To learn more about FreeTaskly, visit [https://www.freetaskly.com](https://www.freetaskly.com) and sign up for a free account today.
 
 About FreeTaskly: FreeTaskly is an integrated freelancing and project management platform designed to cater to the unique needs of Indian freelancers and beginners. Combining a freelancing marketplace with a powerful project management tool, FreeTaskly aims to revolutionize the way freelancers and businesses collaborate and manage their projects.
+
+# FreeTaskly FAQ
+
+## General
+
+### Q1: What is FreeTaskly?
+
+**A1:** FreeTaskly is an integrated freelancing and project management platform specifically designed for Indian freelancers and beginners. The platform combines a freelancing marketplace with a project management tool, providing a seamless experience for users to manage their projects and freelancing activities in one place.
+
+### Q2: Who is the target audience for FreeTaskly?
+
+**A2:** The target audience for FreeTaskly includes Indian freelancers, beginners, and businesses looking for a comprehensive solution to manage projects and hire freelancers.
+
+## Features
+
+### Q3: What features does FreeTaskly offer?
+
+**A3:** FreeTaskly offers the following features:
+
+- User Registration and Profiles
+- Job Listings and Bidding
+- In-App Communication and Collaboration
+- Integrated Project Management Tool
+- Payment Processing and Escrow Services
+- Ratings and Reviews
+- Search and Filtering
+- Notifications and Alerts
+
+### Q4: Can I use the project management tool separately from the freelancing marketplace?
+
+**A4:** Yes, the project management tool in FreeTaskly is designed to be used as a standalone tool, as well as integrated with the freelancing marketplace.
+
+## Security
+
+### Q5: How does FreeTaskly ensure the security of my data and transactions?
+
+**A5:** FreeTaskly implements robust security measures, including HTTPS for data encryption, secure password storage using hashing and salting techniques, proper access controls and authentication using JWT tokens or OAuth, and regular security audits and vulnerability testing. Payment processing is secured using trusted providers like Razorpay, Paytm, or Stripe.
+
+## Technical
+
+### Q6: What technologies are used in building FreeTaskly?
+
+**A6:** FreeTaskly uses a range of technologies, including React for frontend, C# with .NET Core for backend, PostgreSQL and MongoDB/DynamoDB for database, Razorpay/Paytm/Stripe for payment processing, AWS services for third-party integrations, and Docker for containerization. The platform also follows best practices for security, testing, and deployment.
+
+## Support
+
+### Q7: Where can I get help or support for using FreeTaskly?
+
+**A7:** You can reach out to our support team via the contact form on our website, or by sending an email to support@freetaskly.com. Our team will be happy to assist you with any questions or concerns you may have.
